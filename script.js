@@ -89,6 +89,8 @@ function tiraPalavrasRuins(palavras) {
     "essa",
     "num",
     "nem",
+    "A",
+    "O",
     "suas",
     "meu",
     "minha",
